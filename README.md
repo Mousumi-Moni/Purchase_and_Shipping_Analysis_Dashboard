@@ -16,7 +16,7 @@ Tools & Skills Used:
 
 
 
-<img width="1996" height="1092" alt="image" src="https://github.com/user-attachments/assets/7fc53983-b7c7-47b8-a0d9-b4ccdaf7dd88" />
+
 
 
 
@@ -41,6 +41,7 @@ Gender split is near-equal: Male 54%, Female 46%, indicating a broad and balance
 - Color preferences are consistent — Yellow leads at 482 units, while all 10 colors remain within a narrow 429–485 range
 
 
+<img width="1996" height="1092" alt="image" src="https://github.com/user-attachments/assets/7fc53983-b7c7-47b8-a0d9-b4ccdaf7dd88" />
 Business Objectives
 
 - Understand product performance across categories to guide inventory and procurement decisions
