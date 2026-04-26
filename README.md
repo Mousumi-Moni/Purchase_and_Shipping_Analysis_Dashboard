@@ -60,3 +60,20 @@ Business Objectives
 
 - Enable self-service reporting through interactive slicers so non-technical stakeholders can explore data independently
 
+
+
+
+<img width="1106" height="1164" alt="image" src="https://github.com/user-attachments/assets/c922a51c-6c4b-4373-aba8-99d683779b2b" />
+
+
+
+
+How This Dashboard Helps Decision Makers:
+
+For Sales & Marketing Teams:
+
+- Identify top-performing products and prioritize promotions accordingly
+
+- Plan seasonal campaigns around Winter and Summer demand peaks
+
+- Target the dominant M-size and near-equal gender demographic for personalized marketing
