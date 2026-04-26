@@ -77,3 +77,56 @@ For Sales & Marketing Teams:
 - Plan seasonal campaigns around Winter and Summer demand peaks
 
 - Target the dominant M-size and near-equal gender demographic for personalized marketing
+
+
+For Inventory & Supply Chain:
+
+- Use seasonal purchase volume data to plan stock replenishment cycles
+
+- Anticipate demand dips (e.g., August) and avoid overstocking
+
+
+For Finance Teams:
+
+- Monitor monthly revenue trends and year-on-year variance to track financial performance
+
+- Understand payment method distribution for reconciliation and fintech partnership decisions
+
+
+For Executive Leadership:
+
+- Use high-level KPI cards for a quick health check of the business
+- Filter by year or month with slicers to compare performance across periods at a glance
+
+
+Business Value:
+Key Business Impact
+
+- Reduced reporting time — all key metrics are visible on one screen, eliminating the need for manual report compilation
+
+- Data-driven inventory planning — seasonal and product-level insights enable smarter purchasing decisions
+
+- Improved customer understanding — demographic and frequency analysis helps tailor marketing and loyalty programs
+
+- Financial visibility — month-by-month and YoY comparisons surface growth trends and anomalies early
+
+- Democratized analytics — interactive slicers let non-technical users explore data without any coding knowledge
+
+
+Future Enhancements:
+
+- Power BI Migration — Rebuild the dashboard in Power BI for richer interactivity, real-time data refresh, and cloud sharing
+
+- Shipping & Logistics Layer — Incorporate delivery time, shipping cost, and return rate data to complete the supply chain picture
+
+- Customer Segmentation — Apply RFM (Recency, Frequency, Monetary) analysis to identify high-value customer cohorts
+
+- Predictive Forecasting — Use Excel's FORECAST function or integrate Python/R models to predict next-month/next-season demand
+
+- Profitability Analysis — Add cost of goods sold (COGS) data to shift from revenue to margin-based reporting
+
+- Geographic Analysis — Map purchases by region or city to identify high-performing markets
+
+- Automated Data Refresh — Connect to a live data source (SQL database or Google Sheets) for real-time dashboard updates
+
+- Mobile-Friendly Layout — Optimize for smaller screens or build a companion Power BI mobile view
