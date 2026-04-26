@@ -9,6 +9,8 @@ Tools & Skills Used:
 
 
 
+
+
 Key Insights from the Dashboard:
 
 - Clothing dominates revenue at $258,924 (44.7% of total), followed by Accessories at $182,490 (31.5%)
@@ -27,4 +29,15 @@ Gender split is near-equal: Male 54%, Female 46%, indicating a broad and balance
 - Purchasing frequency is spread across all patterns, with Weekly (1,487) and Annually (1,574) both well-represented
 
 - Color preferences are consistent — Yellow leads at 482 units, while all 10 colors remain within a narrow 429–485 range
+
+
+Business Objectives
+
+- Understand product performance across categories to guide inventory and procurement decisions
+
+- Identify seasonal demand patterns for better stock planning and marketing campaign timing
+Analyze customer demographics (gender, size, purchase frequency) for targeted marketing
+Monitor payment method adoption to optimize checkout and financial operations
+Track year-on-year growth to evaluate business health and identify improvement areas
+Enable self-service reporting through interactive slicers so non-technical stakeholders can explore data independently
 
