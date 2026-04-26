@@ -100,6 +100,7 @@ For Executive Leadership:
 
 
 Business Value:
+
 Key Business Impact
 
 - Reduced reporting time — all key metrics are visible on one screen, eliminating the need for manual report compilation
@@ -130,3 +131,16 @@ Future Enhancements:
 - Automated Data Refresh — Connect to a live data source (SQL database or Google Sheets) for real-time dashboard updates
 
 - Mobile-Friendly Layout — Optimize for smaller screens or build a companion Power BI mobile view
+
+
+Files Included:
+
+Purchase-Shipping-Dashboard
+
+ ┣ 📊 Purchase_Shipping_Analysis.xlsx   ← Main Excel workbook with all pivot tables & dashboard
+ 
+ ┣ 📸 Screenshot_-_Dashboard.png        ← Dashboard preview image
+ 
+ ┣ 📸 Screenshot_-_Analysis.png         ← Analysis/pivot tables reference sheet
+ 
+ ┗ 📄 README.md                         ← This file
