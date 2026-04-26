@@ -42,13 +42,21 @@ Gender split is near-equal: Male 54%, Female 46%, indicating a broad and balance
 
 
 <img width="1996" height="1092" alt="image" src="https://github.com/user-attachments/assets/7fc53983-b7c7-47b8-a0d9-b4ccdaf7dd88" />
+
+
+
+
 Business Objectives
 
 - Understand product performance across categories to guide inventory and procurement decisions
 
 - Identify seasonal demand patterns for better stock planning and marketing campaign timing
-Analyze customer demographics (gender, size, purchase frequency) for targeted marketing
-Monitor payment method adoption to optimize checkout and financial operations
-Track year-on-year growth to evaluate business health and identify improvement areas
-Enable self-service reporting through interactive slicers so non-technical stakeholders can explore data independently
+
+- Analyze customer demographics (gender, size, purchase frequency) for targeted marketing
+
+- Monitor payment method adoption to optimize checkout and financial operations
+
+- Track year-on-year growth to evaluate business health and identify improvement areas
+
+- Enable self-service reporting through interactive slicers so non-technical stakeholders can explore data independently
 
