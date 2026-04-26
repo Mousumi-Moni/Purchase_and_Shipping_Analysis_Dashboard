@@ -7,10 +7,14 @@ Tools & Skills Used:
 
 <img width="1300" height="934" alt="image" src="https://github.com/user-attachments/assets/3db1ca3b-a36c-4bfc-8591-da728ce9acb1" />
 
+
+
 Key Insights from the Dashboard:
 
 Clothing dominates revenue at $258,924 (44.7% of total), followed by Accessories at $182,490 (31.5%)
+
 July 2024 was the peak month, recording $79,308 in purchases — a striking spike driven by the 2024 data
+
 Year-on-Year variance dropped sharply in August (38%), suggesting a seasonal dip or data gap in 2024
 Winter is the top-selling season with 2,682 items, closely followed by Summer (2,635) and Spring (2,760)
 Size M accounts for 45% of all purchases, making it the dominant sizing segment
