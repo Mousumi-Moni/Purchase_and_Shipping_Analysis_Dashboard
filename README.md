@@ -144,3 +144,8 @@ Purchase-Shipping-Dashboard
  ┣ 📸 Screenshot_-_Analysis.png         ← Analysis/pivot tables reference sheet
  
  ┗ 📄 README.md                         ← This file
+
+
+About This Project:
+
+Built as part of my data analytics portfolio to demonstrate proficiency in Excel-based business intelligence, data storytelling, and dashboard design. This project reflects real-world reporting workflows used by retail analysts and operations teams.
